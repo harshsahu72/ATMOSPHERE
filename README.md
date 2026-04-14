@@ -11,3 +11,9 @@ A sleek, dark-themed weather web app built with pure HTML No frameworks, no buil
 🗺️ Interactive Map — Leaflet.js map with switchable layers: Temperature, Wind, Clouds, Precipitation, and AQI overlay
 🕐 Search History — Recently searched locations saved as quick-access chips
 📱 Responsive Design — Works on desktop and mobile
+
+
+**Harsh Kumar**
+ | Student
+ << Working on Frontend Designing
+ 
